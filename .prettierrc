@@ -15,7 +15,5 @@
   "tabWidth": 2,
   "trailingComma": "es5",
   "useTabs": false,
-  "vueIndentScriptAndStyle": false,
-  "filepath": "/home/yoim/dashboard/src/App.tsx",
-  "parser": "typescript"
+  "vueIndentScriptAndStyle": false
 }
